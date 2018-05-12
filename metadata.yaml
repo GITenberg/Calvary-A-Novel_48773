@@ -1,9 +1,13 @@
 _repo: Calvary-A-Novel_48773
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Rich, Louis
     gutenberg_agent_id: '44965'
     url: http://www.gutenberg.org/2009/agents/44965
+covers:
+- cover_type: archival
+  image_path: 48773-h/images/cover.jpg
 creator:
   author:
     agent_name: Mirbeau, Octave
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '6950'
     url: http://www.gutenberg.org/2009/agents/6950
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48773#Calvary-A-Novel
 gutenberg_issued: '2015-04-24'
 gutenberg_type: Text
 identifiers:
